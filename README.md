@@ -6,7 +6,7 @@ This project fetches articles from The New York Times API based on user-specifie
 
 <h2>Demo</h2>
 <p>
-  Link to the demo design: <a href="https://www.figma.com/design/xc3KMU2ZhAUrwn5scazzt1/NYT-News-Analyzer?node-id=0-1&t=61uyQU3xZB3O4n2p-1">New York Times News Analyzer</a>
+  Link to the demo design: <a href="https://www.figma.com/design/xc3KMU2ZhAUrwn5scazzt1/NYT-News-Analyzer?node-id=0-1&t=61uyQU3xZB3O4n2p-1">New York Times News Analyzer</a>.
   Working demo is coming soon!
 </p>
 <h2>Preview of the demo design</h2>
